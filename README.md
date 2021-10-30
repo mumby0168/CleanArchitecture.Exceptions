@@ -11,6 +11,7 @@ In the domain layer object integrity is key, any domain rules of an object that 
 public class Parcel
 {
     private readonly List<ParcelItem> _items;
+    
     public string Id { get; }
 
     public string Barcode { get; }
