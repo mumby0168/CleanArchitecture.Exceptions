@@ -5,6 +5,27 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <LangVersion>latest</LangVersion>
+    
+    <Authors>Billy Mumby</Authors>
+    <Company></Company>
+    <Copyright>Copyright 2021 (c) Billy Mumby. All rights reserved.</Copyright>
+
+    <Description>A set of exceptions to be used in projects looking to follow clean architecture.</Description>
+    <IncludeSymbols>true</IncludeSymbols>
+    <SymbolPackageFormat>snupkg</SymbolPackageFormat>
+
+    <!-- NuGet settings -->
+    <PackageId>CleanArchitecture.Exceptions</PackageId>
+    <PackageTags>Clean;CleanArchitecture;Architecture;Exceptions;DDD;Domain;Design;DotNet</PackageTags>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageProjectUrl>https://github.com/mumby0168/CleanArchitecture.Exceptions</PackageProjectUrl>
+    <PackageIcon>logo.png</PackageIcon>
+    <RepositoryType>git</RepositoryType>
+    <RepositoryUrl>https://github.com/mumby0168/CleanArchitecture.Exceptions</RepositoryUrl>
+
+    <!-- SourceLink settings -->
+    <PublishRepositoryUrl>true</PublishRepositoryUrl>
+    <EmbedUntrackedSources>true</EmbedUntrackedSources>
   </PropertyGroup>
 
 </Project>
