@@ -15,7 +15,7 @@
     <SymbolPackageFormat>snupkg</SymbolPackageFormat>
 
     <!-- NuGet settings -->
-    <PackageId>CleanArchitecture.Exceptions</PackageId>
+    <PackageId>Mumby0168.CleanArchitecture.Exceptions</PackageId>
     <PackageTags>Clean;CleanArchitecture;Architecture;Exceptions;DDD;Domain;Design;DotNet</PackageTags>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageProjectUrl>https://github.com/mumby0168/CleanArchitecture.Exceptions</PackageProjectUrl>
