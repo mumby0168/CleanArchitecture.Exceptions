@@ -19,7 +19,7 @@
     <PackageTags>Clean;CleanArchitecture;Architecture;Exceptions;DDD;Domain;Design;DotNet</PackageTags>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageProjectUrl>https://github.com/mumby0168/CleanArchitecture.Exceptions</PackageProjectUrl>
-    <PackageIcon>logo.png</PackageIcon>
+    <PackageIcon>icon.png</PackageIcon>
     <RepositoryType>git</RepositoryType>
     <RepositoryUrl>https://github.com/mumby0168/CleanArchitecture.Exceptions</RepositoryUrl>
 
@@ -27,5 +27,8 @@
     <PublishRepositoryUrl>true</PublishRepositoryUrl>
     <EmbedUntrackedSources>true</EmbedUntrackedSources>
   </PropertyGroup>
+  <ItemGroup>
+    <None Include="icon.png" Pack="true" PackagePath="\" />
+  </ItemGroup>
 
 </Project>
