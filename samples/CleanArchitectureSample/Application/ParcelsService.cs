@@ -4,11 +4,11 @@ using CleanArchitectureSample.Domain;
 
 namespace CleanArchitectureSample.Application;
 
-public class ParcelService : IParcelsService
+public class ParcelsService : IParcelsService
 {
     private readonly IParcelRepository _parcelRepository;
 
-    public ParcelService(IParcelRepository parcelRepository)
+    public ParcelsService(IParcelRepository parcelRepository)
     {
         _parcelRepository = parcelRepository;
     }
