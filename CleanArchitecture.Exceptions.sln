@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanArchitecture.Exception
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "samples", "samples", "{AB7FD4F3-FF53-4372-A41C-0C33306D737D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanArchitectureSample", "samples\CleanArchitectureSample\CleanArchitectureSample.csproj", "{58571504-1370-4901-BC0B-75DA3528AA93}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,9 +32,14 @@ Global
 		{B7D7B49D-60E8-42F3-A5C2-A88E694184C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B7D7B49D-60E8-42F3-A5C2-A88E694184C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B7D7B49D-60E8-42F3-A5C2-A88E694184C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58571504-1370-4901-BC0B-75DA3528AA93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58571504-1370-4901-BC0B-75DA3528AA93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58571504-1370-4901-BC0B-75DA3528AA93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58571504-1370-4901-BC0B-75DA3528AA93}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{9994D23B-F6F4-4083-92DD-DA73B1BFC74F} = {0AC7DF48-FF98-440D-BF91-BD3F47327BE2}
 		{B7D7B49D-60E8-42F3-A5C2-A88E694184C5} = {961C6EE9-53CC-42AD-9890-E3FEC242364C}
+		{58571504-1370-4901-BC0B-75DA3528AA93} = {AB7FD4F3-FF53-4372-A41C-0C33306D737D}
 	EndGlobalSection
 EndGlobal
